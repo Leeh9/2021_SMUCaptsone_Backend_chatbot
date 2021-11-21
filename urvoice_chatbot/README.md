@@ -2,6 +2,13 @@
 ## usage 
 
     python manage.py runserver
+    
+    1. POST : "localhost:8000/chat/"
+        {
+            "input" : ""
+        }
+        
+    2. GET : "localhost:8000/chat/?inputText="
 
 
 ## data
