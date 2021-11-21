@@ -3,7 +3,7 @@
 
     python manage.py runserver
     
-    ------------------------------
+## http request
     
     1. POST : "localhost:8000/chat/"
         {
